@@ -1,0 +1,24 @@
+Reign In Blood
+Slayer
+Images/reign_in_blood.jpg
+10
+Angel Of Death
+Slayer/Track_01.mp3
+Piece By Piece
+Slayer/Track_02.mp3
+Necrophobic
+Slayer/Track_03.mp3
+Altar Of Sacrifice
+Slayer/Track_04.mp3
+Jesus Saves
+Slayer/Track_05.mp3
+Criminally Insane
+Slayer/Track_06.mp3
+Reborn
+Slayer/Track_07.mp3
+Epidemic
+Slayer/Track_08.mp3
+Postmortem
+Slayer/Track_09.mp3
+Raining Blood
+Slayer/Track_10.mp3
